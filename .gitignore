@@ -1,0 +1,5 @@
+secret-credentials/** 
+#ignore all files in secret-credentials directory
+!secret-credentials/.gitkeep
+#keep the .gitignore file
+!secret-credentials/.gitkeep #only keep the .gitkeep file
