@@ -1,6 +1,3 @@
 Round 1
-Rock
 Round 2
-Rock
 Round 3
-Scissor
