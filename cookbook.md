@@ -19,3 +19,17 @@ Or fewer herbs. Replace half the basil with 1 cup arugula, kale, or chopped zucc
 Don’t let your veggie stems go to waste. Blanch 1/2 cup kale stems and blend them into pesto in place of half the basil.
 Punch up the flavor! Add 2 to 4 sun dried tomatoes, a charred jalapeño, nutritional yeast, or a pinch of red pepper flakes.
 The possibilities are endless – let me know if you have a favorite variation!
+
+# Cheesecake Recipe
+## Graham Cracker Crust¹
+- 1 ½ cups graham cracker crumbs (170g)
+- 2 Tablespoons sugar
+- 1 Tablespoon brown sugar (can substitute white)
+- 7 Tablespoons butter melted
+Cheesecake
+- 32 oz cream cheese² softened to room temperature (910g)
+- 1 cup sugar (200g)
+- ⅔ cups sour cream (160g)
+- 1 ½ teaspoons vanilla extract
+- ⅛ teaspoon salt
+- 4 large eggs room temperature, lightly beaten
