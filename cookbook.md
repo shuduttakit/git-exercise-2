@@ -1,3 +1,4 @@
+# Basil Pesto
 Once you’ve made the classic basil pesto recipe, try changing it up! You can make delicious variations with all sorts of nuts, seeds, veggies, and leafy greens. Here are some of my favorites:
 
 Swap out the pine nuts for any nut of your choice! I particularly like walnuts, almonds, and pistachios.
