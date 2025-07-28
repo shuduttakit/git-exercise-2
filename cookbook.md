@@ -16,3 +16,4 @@ freshly ground black pepper
 2 cups basil leaves
 ¼ cup extra-virgin olive oil, plus more for a smoother pesto
 ¼ cup freshly grated Parmesan cheese, optional
+add more olive oil
