@@ -33,3 +33,24 @@ Cheesecake
 - 1 ½ teaspoons vanilla extract
 - ⅛ teaspoon salt
 - 4 large eggs room temperature, lightly beaten
+
+## Apple cake
+Per serving (8 servings)
+Calories:
+279kcal
+Carbohydrates:
+35g
+Protein:
+3g
+Fat:
+13g
+Saturated Fat:
+8g
+Cholesterol:
+77mg
+Sodium:
+66mg
+Fiber:
+2g
+Sugar:
+22g
