@@ -1,6 +1,6 @@
 Round 1
 Rock
 Round 2
-Paper
+Rock
 Round 3
 Scissor
