@@ -1,4 +1,4 @@
-spellchecker: aspell
+spellchecker: spell
 matrix:
 - name: Text Files
   sources:
